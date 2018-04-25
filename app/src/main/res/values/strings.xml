@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search_by_subject">Search by subject</string>
+    <string name="button_search">Search</string>
+    <string name="work_title">Work Title</string>
+    <string name="work_author">Work Author</string>
+</resources>
